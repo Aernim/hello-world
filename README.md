@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hey everybody
+Aernim-first time novice,full time enthusiast.
